@@ -1,2 +1,11 @@
 // Import Core Clean Blog SCSS
 @import "../assets/vendor/startbootstrap-clean-blog/scss/clean-blog.scss";
+
+//NanumSquare Web Font
+@import url(https://cdn.jsdelivr.net/gh/moonspam/NanumSquare@1.0/nanumsquare.css);
+
+/* Style Blog Font */
+h1, h2, h3, h4, h5, h6, p, blockquote, pre, ul, ol, dl, figure {
+    margin-bottom: 15px;
+    font-family: 'NanumSquare', sans-serif;
+  }
