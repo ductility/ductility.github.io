@@ -4,6 +4,12 @@ title: 마우스와 로봇팔로 주호민 작가님 그리기
 subtitle: 마우스와 Canvas를 이용해 G-Code를 생성하고, 로봇팔에 전송하여 주호민 작가님 그림과 사인받기(+주작가님 방문?!)
 background: '/img/posts/08.jpg'
 comments: true
+
+date:   2020-04-07 12:00:00 
+lastmod : 2020-05-25 12:00:00
+sitemap :
+  changefreq : weekly
+  priority : 1.0
 ---
 
 # 마우스와 로봇팔로 주호민 작가님 그리기

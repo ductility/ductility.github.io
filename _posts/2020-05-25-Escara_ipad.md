@@ -4,6 +4,12 @@ title: 아이패드와 로봇팔로 그림 그리기
 subtitle: 아이패드에 그린 그림 로봇팔이 따라 그리게하기
 background: '/img/posts/05.jpg'
 comments: true
+
+date:   2020-05-25 12:00:00 
+lastmod : 2020-07-20 12:00:00
+sitemap :
+  changefreq : weekly
+  priority : 1.0
 ---
 
 ## 아이패드 + 로봇팔로 그림 그리기

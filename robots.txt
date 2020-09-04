@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ductility.github.io/sitemap.xml

@@ -1,12 +1,18 @@
 ---
 layout: post
-title: iCampusCheck(아캠체크)
+title: iCampusCheck (아캠체크)
 subtitle: 성균관대 과제/강의 확인 크롬확장프로그램
 background: '/img/posts/07.jpg'
 comments: true
+
+date:   2020-09-02 12:00:00 
+lastmod : 2020-09-04 12:00:00
+sitemap :
+  changefreq : weekly
+  priority : 1.0
 ---
 
-# iCampusCheck(아캠체크)
+# iCampusCheck (아캠체크)
 
 <img src="https://raw.githubusercontent.com/ductility/images/master/iCampusCheck(0.1.0).gif" width="100%">
 
